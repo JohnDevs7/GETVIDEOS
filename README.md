@@ -33,5 +33,5 @@ O sistema realiza buscas com base no termo inserido e retorna uma lista de víde
 
 ---
 ## 🌍 Acesse 
-Link: getvideos.netlify.app
+Link: www.getvideos.netlify.app
 
