@@ -32,5 +32,6 @@ O sistema realiza buscas com base no termo inserido e retorna uma lista de víde
 - **jQuery**
 
 ---
-
+## 🌍 Acesse 
+Link: getvideos.netlify.app
 
