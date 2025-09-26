@@ -31,6 +31,8 @@ O sistema realiza buscas com base no termo inserido e retorna uma lista de víde
 - **JavaScript (ES6)**
 - **jQuery**
 
+-**Apresentação Visual
+![Banner](https://i.ibb.co/qYxC3ffS/5.png)
 ---
 ## 🌍 Acesse 
 Link: https://getvideos.netlify.app
